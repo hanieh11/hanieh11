@@ -6,7 +6,7 @@ Hello there. I'm Hanieh, an AI engineer and Neuroscience enthusiast. These are s
 * 1 year of work experience as Python developer at [Aseman Land](https://github.com/Aseman-Land)
 * Lots of teaching and mentoring experience (as a teaching assistant and coach)
 
-You can contact me at [](hanieh11@hotmail.com)
+You can contact me at [hanieh11@hotmail.com](hanieh11@hotmail.com) or via [Linkedin](https://www.linkedin.com/in/hanieh-sahranavard/)
   
 ### Some of My Noteable Repositories
 ---
